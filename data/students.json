@@ -6,5 +6,13 @@
         "grade": "A+",
         "email": "ddd@gmial.com",
         "phone": "246"
+    },
+    {
+        "student_id": "S002",
+        "name": "shashi",
+        "age": 12,
+        "grade": "D+",
+        "email": "hhhhhhhhhhhhh@gmail.com",
+        "phone": "12345"
     }
 ]
